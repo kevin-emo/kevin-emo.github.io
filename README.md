@@ -1,6 +1,6 @@
 # Kevin EMO
 
-:elephant::dash:
+🐘💨
 
 ## Liens
 

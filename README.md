@@ -1,5 +1,7 @@
 # Kevin EMO
 
+*Développeur web Symfony - DevOps*
+
 🐘💨
 
 ## Liens
